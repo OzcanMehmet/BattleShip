@@ -1,2 +1,2 @@
 # BattleShip
-Lan üzerinden Oynanabilen amiral battı oyunu
+Lan üzerinden oynanabilen amiral battı oyunu
